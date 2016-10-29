@@ -1,5 +1,5 @@
 
-Specical thanks yo [**PhilJay**](https://github.com/PhilJay/)
+Specical thanks to [**PhilJay**](https://github.com/PhilJay/)
 
 _____________________________________________________________
 
